@@ -2,7 +2,7 @@
 # Огненный светильник с функцией часов на Arduino
 * [Описание проекта](#chapter-0)
 * [Папки проекта](#chapter-1)
-* [Схемы подключения](#chapter-2)
+* [Схема подключения](#chapter-2)
 * [Материалы и компоненты](#chapter-3)
 
 ![DAENSHOW_PHOTO](https://github.com/DaenShow/DaenShow/blob/main/DaenShow.png)
