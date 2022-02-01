@@ -135,8 +135,8 @@ void clockled() {
   byte now_min = now.minute();       
   byte now_hour = now.hour(); 
   static byte counter = 0;           // создание счетчика итераций за 1 секунду
-  static byte prev_led_sec = 0;      
-  int led_sec, sec_prev_led, sec_next_led, min_prev_led, min_next_led, hour_prev_led, hour_next_led;
+  static byte sec_prev_led = 0;      
+  int led_sec, sec_next_led, min_prev_led, min_next_led, hour_prev_led, hour_next_led;
   int sec_prev_color, sec_next_color, min_prev_color, min_next_color, hour_prev_color, hour_next_color;
   int sec_val, min_val, hour_val;
 
