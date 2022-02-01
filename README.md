@@ -3,7 +3,8 @@
 * [Описание проекта](#chapter-0)
 * [Папки проекта](#chapter-1)
 * [Схема подключения](#chapter-2)
-* [Материалы и компоненты](#chapter-3)
+* [Обновления](#chapter-3)
+* [Материалы и компоненты](#chapter-4)
 
 ![DAENSHOW_PHOTO](https://github.com/DaenShow/DaenShow/blob/main/DaenShow.png)
 
@@ -44,6 +45,10 @@
 ![SCHEME](https://github.com/DaenShow/DaenLamp/blob/main/schemes/Scheme.jpg)
 
 <a id="chapter-3"></a>
+## Обновления
+- 01.02.2021 - Версия 1.1 - исправлена ошибка отображения режима часов
+
+<a id="chapter-4"></a>
 ## Материалы и компоненты
 ### Ссылки на магазины, где комплектующие закупил я
 - Arduino NANO https://vk.cc/c0u9hm
